@@ -2,7 +2,7 @@
 
 **Track:** Undergraduate (shared build only, no Task B or C)
 
-**Team:** Uyiosa Nehikhuere and PARTNER NAME HERE
+**Team:** Uyiosa Nehikhuere 
 
 ## How to run
 
